@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJeongyong-park%2Fcsv-geojson-conv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJeongyong-park%2Fcsv-geojson-conv?ref=badge_shield)
+
 ## csv-geojson-conv
 
 csv-geojson-conv is module for very easy to use for convert from CSV to GeoJSON.
