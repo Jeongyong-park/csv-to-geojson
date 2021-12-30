@@ -48,6 +48,6 @@ const geojson = csvToGeojson(csvdata, { latitudeColumnName: 'lat', longitudeColu
 
 ## LICENSE
 
-Licensed [MIT](https://github.com/Jeongyong-park/csv-geojson-convmocha/blob/master/LICENSE
+Licensed [MIT](https://github.com/Jeongyong-park/csv-geojson-convmocha/blob/master/LICENSE)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJeongyong-park%2Fcsv-geojson-conv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJeongyong-park%2Fcsv-geojson-conv?ref=badge_large)
